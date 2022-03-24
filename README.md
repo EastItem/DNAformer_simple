@@ -9,8 +9,9 @@
 模型参数：
 
 实验参数
+
 |参数名称| 数值| 备注|
-|  ----  | ----  |
+|  ----  | ----  | ----  |
 |N| 2|
 |M| 1|
 |C1| 0.1 |CSEloss 参数|
@@ -26,4 +27,5 @@
 
 模型测试结果：
 
-![image](https://user-images.githubusercontent.com/88192911/159869570-57dc8390-90ce-400a-bd75-1efa41078abd.png)
+![image](https://user-images.githubusercontent.com/88192911/159869769-e0c044f7-716d-448f-9a78-084a585c3f5a.png)
+
