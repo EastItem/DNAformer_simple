@@ -25,6 +25,11 @@
 
 受限于设备性能，所以很多参数不能与原文一致，抱歉！
 
+模型概念图：
+
+![image](https://user-images.githubusercontent.com/88192911/162429868-97164f9c-d5a2-4dc8-b97a-8700a24fe317.png)
+
+
 模型测试结果：
 
 ![image](https://user-images.githubusercontent.com/88192911/159869769-e0c044f7-716d-448f-9a78-084a585c3f5a.png)
